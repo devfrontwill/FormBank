@@ -31,6 +31,7 @@ botaoEnviarFoto.addEventListener('click', () => {
     const receberDadosExistentes = localStorage.getItem("cadastro");
     const converteRetorno = JSON.parse(receberDadosExistentes);
     
+    
 
     converteRetorno.imagem = imagemURL;
 
