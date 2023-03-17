@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center"> <img src="https://img.icons8.com/nolan/256/bank-building.png" alt="Logo da DevBank"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual DevBank.</p>
+<p align="center"><h4>Formulário de criação de contas para o banco virtual DevBank.</p></h4>
 
 
 ## Tecnologias utilizadas no projeto
