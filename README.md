@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center"> <img src="https://i.pinimg.com/736x/2c/1d/86/2c1d862b192eec296fcb2a3fd7fe820b.jpg" alt="Logo da DevBank"> </p>
+<p align="center"> <img src="https://img.icons8.com/nolan/256/bank-building.png" alt="Logo da DevBank"> </p>
 <p align="center">Formulário de criação de contas para o banco virtual DevBank.</p>
 
 
