@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
+<p align="center"> <img src="https://images.freeimages.com/365/images/previews/d92/bank-building-icon-psd-53157.jpg" alt="Logo da DevBank"> </p>
 <p align="center">Formulário de criação de contas para o banco virtual DevBank.</p>
 
 
